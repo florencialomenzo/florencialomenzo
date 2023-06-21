@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/florencialomenzo/"><img alt="FlorenciaLomenzo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 - ⚡ Hobbies: Me encantan los deportes, suelo jugar al padel, practicar yoga y salir a correr. Veo series y peliculas en portugués. A veces canto y toco algún que otro instrumento 😜.
 
+
 ## 📱 Tech Stack 📱
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
